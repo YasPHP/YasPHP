@@ -11,7 +11,8 @@
 
 [<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="The Student Spotlight Podcast" width="350" />](https://open.spotify.com/show/48DzS7x134TsQuE7uvz9Wi)
 
-<img align="right" alt="Brain Code" width="400" src="https://dribbble.com/shots/7098513-TED-ED-Mind-Uploading">
+<img align="right" alt="Brain" width="400" src="http://gifimage.net/wp-content/uploads/2017/10/cerebro-gif-tumblr-3.gif">
+
 
 
 ### Languages and Tools:
