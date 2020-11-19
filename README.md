@@ -35,6 +35,9 @@
 
 [![Yasmeen's github stats](https://github-readme-stats.vercel.app/api?username=YasPHP&theme=graywhite&show_icons=true)](https://github.com/YasPHP/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YasPHP&layout=compact&show_icons=true)](https://github.com/YasPHP/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YasPHP&layout=compact&show_icons=true&theme=vue)](https://github.com/YasPHP/github-readme-stats)
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=YasPHP.visitor-badge)
+
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/2646423/screenshots/5507196/computer.gif">
+
