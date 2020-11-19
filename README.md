@@ -2,7 +2,7 @@
 
 - 📚 I'm a sophomore studying Psychology, Computer Science and Mathematics at the University of Toronto 
 - 🧠 Currently learning about computational neuroscience and artificial intelligence
-- 👯 I’m looking to collaborate with other content creators
+- :chillwcat: Lead as the Director Of Event Operations (Computational Sciences Division) in the Women in Science and Computing Club
 - 🥅 2020 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to draw and play guitar / drums
 
