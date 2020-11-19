@@ -45,5 +45,5 @@
 
 [![Yasmeen's github stats](https://github-readme-stats.vercel.app/api?username=YasPHP&theme=omni&show_icons=true)](https://github.com/YasPHP/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YasPHP&layout=compact)](https://github.com/YasPHP/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YasPHP&layout=compact&theme=omni&show_icons=true)](https://github.com/YasPHP/github-readme-stats)
 
