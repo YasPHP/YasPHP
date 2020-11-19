@@ -7,7 +7,7 @@
 
 ### My Podcast
 
-[<img src="https://now-playing-YasPHP.vercel.app/api/spotify-playing" alt="The Student Spotlight Podcast" width="350" />](https://open.spotify.com/show/48DzS7x134TsQuE7uvz9Wi)
+[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="The Student Spotlight Podcast" width="350" />](https://open.spotify.com/show/48DzS7x134TsQuE7uvz9Wi)
 
 ### Languages and Tools:
 
@@ -25,15 +25,8 @@
 
 ### Connect with me:
 
-[<img align="left" alt="yasmeenbrain.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="Yasmeen | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-
-
-</details>
-
-[website]: https://yasmeenbrain.com/
-[linkedin]: https://ca.linkedin.com/in/yasmeen-hmaidan-0ba3a8148
-
+<img align="left" alt="yasmeenbrain.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" src = "https://yasmeenbrain.com/" />
+<img align="left" alt="Yasmeen | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" src = "https://ca.linkedin.com/in/yasmeen-hmaidan-0ba3a8148" />
 
 <br />
 
