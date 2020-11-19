@@ -49,4 +49,4 @@
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=YasPHP.visitor-badge)
 
-<img align="center" alt="dots" width="200" src="http://orig10.deviantart.net/6512/f/2013/236/1/5/heart_gif_by_heyrobots-d6jl5ut.png">
+<img align="left" alt="dots" width="200" src="http://orig10.deviantart.net/6512/f/2013/236/1/5/heart_gif_by_heyrobots-d6jl5ut.png">
