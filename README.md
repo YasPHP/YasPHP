@@ -42,7 +42,7 @@
 <br />
 <br />
 
-[![Yasmeen's github stats](https://github-readme-stats.vercel.app/api?username=YasPHP&theme=graywhite&show_icons=true)](https://github.com/YasPHP/github-readme-stats)
+[![Yasmeen's github stats](https://github-readme-stats.vercel.app/api?username=YasPHP&theme=graywhite&show_icons=true&hide=issues,contribs)](https://github.com/YasPHP/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YasPHP&layout=compact&show_icons=true&theme=graywhite)](https://github.com/YasPHP/github-readme-stats)
 
