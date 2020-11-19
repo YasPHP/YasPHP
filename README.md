@@ -23,6 +23,8 @@
 <img align="left" alt="Numpy" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/NumPy_logo_2020.svg/1024px-NumPy_logo_2020.svg.png" />
 <img align="left" alt="Keras" width="26px" src="https://s3.amazonaws.com/keras.io/img/keras-logo-2018-large-1200.png" />
 
+
+<br />
 ### Connect with me:
 
 [<img align="left" alt="yasmeenbrain.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
@@ -40,5 +42,8 @@
 [website]: https://yasmeenbrain.com/
 [linkedin]: https://ca.linkedin.com/in/yasmeen-hmaidan-0ba3a8148
 
+<br />
+
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=YasPHP.visitor-badge)
+
 [![Yasmeen's github stats](https://github-readme-stats.vercel.app/api?username=YasPHP)](https://github.com/YasPHP/github-readme-stats)
