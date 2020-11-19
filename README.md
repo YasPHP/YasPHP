@@ -1,4 +1,4 @@
-<img align="left" alt="Brain" width="200" src="http://gifimage.net/wp-content/uploads/2017/10/cerebro-gif-tumblr-3.gif">
+<img align="left" alt="Brain" width="300" src="http://gifimage.net/wp-content/uploads/2017/10/cerebro-gif-tumblr-3.gif">
 
 
 ## Hi there, I'm Yasmeen! 👋
