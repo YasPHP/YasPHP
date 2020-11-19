@@ -5,6 +5,8 @@
 - 👩‍💻 Lead as the Director Of Event Operations (Computational Sciences Division) in the Women in Science and Computing Club
 - 🧪 In search of neuroscience and decision intelligence research opportunities
 
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/2646423/screenshots/5507196/computer.gif">
+
 ### My Podcast
 
 [<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="The Student Spotlight Podcast" width="350" />](https://open.spotify.com/show/48DzS7x134TsQuE7uvz9Wi)
@@ -38,6 +40,4 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YasPHP&layout=compact&show_icons=true&theme=vue)](https://github.com/YasPHP/github-readme-stats)
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=YasPHP.visitor-badge)
-
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/2646423/screenshots/5507196/computer.gif">
 
