@@ -1,3 +1,6 @@
+<img align="left" alt="Brain" width="200" src="http://gifimage.net/wp-content/uploads/2017/10/cerebro-gif-tumblr-3.gif">
+
+
 ## Hi there, I'm Yasmeen! 👋
 
 - 📚 I'm a sophomore studying Psychology, Computer Science and Mathematics at the University of Toronto 
@@ -28,9 +31,6 @@
 <img align="left" alt="Keras" width="26px" src="https://s3.amazonaws.com/keras.io/img/keras-logo-2018-large-1200.png" />
 
 <br />
-
-
-<img align="right" alt="Brain" width="400" src="http://gifimage.net/wp-content/uploads/2017/10/cerebro-gif-tumblr-3.gif">
 
 ### Connect with me:
 
