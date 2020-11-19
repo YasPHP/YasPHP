@@ -31,9 +31,10 @@
 <img align="left" alt="Yasmeen | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" src = "https://ca.linkedin.com/in/yasmeen-hmaidan-0ba3a8148" />
 
 <br />
+<br />
 
-[![Yasmeen's github stats](https://github-readme-stats.vercel.app/api?username=YasPHP&theme=omni&show_icons=true)](https://github.com/YasPHP/github-readme-stats)
+[![Yasmeen's github stats](https://github-readme-stats.vercel.app/api?username=YasPHP&bg_color= #E1306C,#FFDC80,#405DE6)](https://github.com/YasPHP/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YasPHP&layout=compact&theme=omni&show_icons=true)](https://github.com/YasPHP/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YasPHP&layout=compact&theme=buefy&show_icons=true)](https://github.com/YasPHP/github-readme-stats)
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=YasPHP.visitor-badge&theme=omni&show_icons=true)
+![visitors](https://visitor-badge.glitch.me/badge?page_id=YasPHP.visitor-badge)
