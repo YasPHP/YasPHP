@@ -49,12 +49,7 @@
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=YasPHP.visitor-badge)
 
-
-<img align="center" alt="dots" width="1000" src="https://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/189a3ec9-cd0b-40f1-8e63-a85834c1d012/creativeai.gif" >
-
-<img align="center" alt="dots" width="500" src="https://webstockreview.net/images/clipart-water-animated-gif-2.gif" >
-
-<img align="center" alt="dots" width="200" src="http://orig10.deviantart.net/6512/f/2013/236/1/5/heart_gif_by_heyrobots-d6jl5ut.png">
+<img align="center" alt="dots" width="500" src="http://orig10.deviantart.net/6512/f/2013/236/1/5/heart_gif_by_heyrobots-d6jl5ut.png">
 ### I thank your optical nerve for processing my page!
 
 
