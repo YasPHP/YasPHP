@@ -7,7 +7,7 @@
 
 ### My Podcast
 
-[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="The Student Spotlight Podcast" width="350" />](https://open.spotify.com/show/48DzS7x134TsQuE7uvz9Wi)
+[<img src="https://now-playing-YasPHP.vercel.app/api/spotify-playing" alt="The Student Spotlight Podcast" width="350" />](https://open.spotify.com/show/48DzS7x134TsQuE7uvz9Wi)
 
 ### Languages and Tools:
 
@@ -23,21 +23,17 @@
 <img align="left" alt="Numpy" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/NumPy_logo_2020.svg/1024px-NumPy_logo_2020.svg.png" />
 <img align="left" alt="Keras" width="26px" src="https://s3.amazonaws.com/keras.io/img/keras-logo-2018-large-1200.png" />
 
-
-<br />
 ### Connect with me:
 
 [<img align="left" alt="yasmeenbrain.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="Yasmeen | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-
-<br />
-
 
 
 </details>
 
 [website]: https://yasmeenbrain.com/
 [linkedin]: https://ca.linkedin.com/in/yasmeen-hmaidan-0ba3a8148
+
 
 <br />
 
