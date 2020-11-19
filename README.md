@@ -2,11 +2,10 @@
 
 - 📚 I'm a sophomore studying Psychology, Computer Science and Mathematics at the University of Toronto 
 - 🧠 Currently learning about computational neuroscience and artificial intelligence
-- :chillwcat: Lead as the Director Of Event Operations (Computational Sciences Division) in the Women in Science and Computing Club
-- 🥅 2020 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: I love to draw and play guitar / drums
+- 👩‍💻 Lead as the Director Of Event Operations (Computational Sciences Division) in the Women in Science and Computing Club
+- 🧪 In search of neuroscience and decision intelligence research opportunities
 
-### The Student Spotlight Podcast
+### My Podcast
 
 [<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="The Student Spotlight Podcast" width="350" />](https://open.spotify.com/show/48DzS7x134TsQuE7uvz9Wi)
 
