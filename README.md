@@ -1,7 +1,7 @@
 <img align="left" alt="Brain" width="300" src="http://gifimage.net/wp-content/uploads/2017/10/cerebro-gif-tumblr-3.gif">
 
 
-## Hi there, I'm Yasmeen! 👋
+## Hello fellow brain, I'm Yasmeen! 👋
 
 - 📚 I'm a sophomore studying Psychology, Computer Science and Mathematics at the University of Toronto 
 - 🧠 Currently learning about computational neuroscience and artificial intelligence
