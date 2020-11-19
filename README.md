@@ -11,8 +11,6 @@
 
 [<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="The Student Spotlight Podcast" width="350" />](https://open.spotify.com/show/48DzS7x134TsQuE7uvz9Wi)
 
-<img align="right" alt="Brain" width="400" src="http://gifimage.net/wp-content/uploads/2017/10/cerebro-gif-tumblr-3.gif">
-
 
 
 ### Languages and Tools:
@@ -30,6 +28,9 @@
 <img align="left" alt="Keras" width="26px" src="https://s3.amazonaws.com/keras.io/img/keras-logo-2018-large-1200.png" />
 
 <br />
+
+
+<img align="right" alt="Brain" width="400" src="http://gifimage.net/wp-content/uploads/2017/10/cerebro-gif-tumblr-3.gif">
 
 ### Connect with me:
 
