@@ -54,7 +54,7 @@
 
 <img align="center" alt="dots" width="500" src="https://webstockreview.net/images/clipart-water-animated-gif-2.gif" >
 
-<img align="center" alt="dots" width="500" src="https://orig00.deviantart.net/3463/f/2014/211/9/1/walking_fingers_animated_gif_by_bdoyle75-d7szbgv.png" >
+<img align="center" alt="dots" width="200" src="http://orig10.deviantart.net/6512/f/2013/236/1/5/heart_gif_by_heyrobots-d6jl5ut.png">
+### I thank your optical nerve for processing my page!
 
-<img align="center" alt="dots" width="500" src="http://orig10.deviantart.net/6512/f/2013/236/1/5/heart_gif_by_heyrobots-d6jl5ut.png">
 
