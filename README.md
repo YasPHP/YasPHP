@@ -70,6 +70,8 @@
     </a>
 </h1>
 
+<div align="center" width="50">
 
-![Hey there, I'm Yas. I'm a software developer, a maker and infosec enthusiast. Check out my work](https://github.com/YasPHP/YasPHP/raw/master/bio.gif)
+<img src="https://i.imgur.com/dTYwdG1.gif" alt="Welcome!" width="300"/>
 
+</div>
