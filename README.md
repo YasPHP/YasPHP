@@ -70,4 +70,6 @@
     </a>
 </h1>
 
-![gif](https://github.com/YasPHP/YasPHP/blob/master/about.gif)
+
+![Hey there, I'm Yas. I'm a software developer, a maker and infosec enthusiast. Check out my work](https://github.com/CyrisXD/CyrisXD/raw/master/bio.gif)
+
