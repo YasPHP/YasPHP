@@ -2,13 +2,6 @@
 
 
   <img src="https://github.com/vimalverma558/vimalverma558/blob/v2/img/hello.gif" width="20%">
-  <br><br>
-  
-  <samp>
-    Hello fellow brain,<img src="https://github.com/vimalverma558/vimalverma558/blob/v2/img/Hi.gif" width="20px"> I'm Yasmeen.
-  </samp>
-</p>
-
 
 - 📚 I'm a sophomore studying Psychology, Computer Science and Mathematics at the University of Toronto 
 - 🧠 Currently learning about computational neuroscience and artificial intelligence
