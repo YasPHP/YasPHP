@@ -1,10 +1,15 @@
 <img align="left" alt="Brain" width="300" src="http://gifimage.net/wp-content/uploads/2017/10/cerebro-gif-tumblr-3.gif">
 
+
+<p align="center">
+  <img src="https://github.com/vimalverma558/vimalverma558/blob/v2/img/hello.gif" width="40%">
+  <br><br>
+  
   <samp>
-    Hi,<img src="https://github.com/vimalverma558/vimalverma558/blob/v2/img/Hi.gif" width="20px"> I'm Yas.
+    Hello fellow brain,<img src="https://github.com/vimalverma558/vimalverma558/blob/v2/img/Hi.gif" width="20px"> I'm Yasmeen.
   </samp>
 </p>
-## Hello fellow brain, I'm Yasmeen! 👋
+
 
 - 📚 I'm a sophomore studying Psychology, Computer Science and Mathematics at the University of Toronto 
 - 🧠 Currently learning about computational neuroscience and artificial intelligence
@@ -53,12 +58,6 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YasPHP&layout=compact&show_icons=true&include_all_commits=true&bg_color=0,73FA79,73FDFF,7A81FF&theme=graywhite)](https://github.com/YasPHP/github-readme-stats)
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=YasPHP.visitor-badge)
-
-
-
-<p align="center">
-  <img src="https://github.com/vimalverma558/vimalverma558/blob/v2/img/hello.gif" width="50%">
-  <br><br>
   
   <img src="https://media.giphy.com/media/jpVnC65DmYeyRL4LHS/giphy.gif" width="20%">
 
