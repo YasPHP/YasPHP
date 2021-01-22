@@ -38,7 +38,7 @@
 
 ### Connect with me:
 
-<img align="left" alt="yasmeenbrain.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" (https://yasmeenbrain.com/) />
+<img align="left" alt="yasmeenbrain.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" src = "https://yasmeenbrain.com/" />
 <img align="left" alt="Yasmeen | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" src = "https://ca.linkedin.com/in/yasmeen-hmaidan-0ba3a8148" />
 
 <br />
