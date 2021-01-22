@@ -40,6 +40,8 @@
 
 <a href="https://yasmeenbrain.com/"> <img align="left" alt="yasmeenbrain.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />
 <a href="https://ca.linkedin.com/in/yasmeen-hmaidan-0ba3a8148"><img align="left" alt="Yasmeen | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+  
+<a href="https://open.spotify.com/show/48DzS7x134TsQuE7uvz9Wi"><img align = "left" width="22px" src="https://findicons.com/files/icons/2779/simple_icons/4096/spotify_4096_black.png" />
 
 <br />
 <br />
