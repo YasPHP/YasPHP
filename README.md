@@ -47,7 +47,7 @@
 <br />
 
 
-<img align="left" alt="dots" width="100" src="https://cdn2.scratch.mit.edu/get_image/user/21004752_60x60.png?v=1485302549.33">
+<img align="left" alt="dots" width="300" src="https://cdn2.scratch.mit.edu/get_image/user/21004752_60x60.png?v=1485302549.33">
 
 [![Yasmeen's github stats](https://github-readme-stats.vercel.app/api?username=YasPHP&theme=graywhite&show_icons=true&hide=issues,contribs&include_all_commits=true&line_height=21&bg_color=0,EC6C6C,FFD479,FFFC79,73FA79)](https://github.com/YasPHP/github-readme-stats)
 
