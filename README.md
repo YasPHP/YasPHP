@@ -9,7 +9,7 @@
 - 🎯 In search of neuroscience and computer vision research opportunities
 <!-- - 🧪 Research Assistant at the Fukuda Lab for Cognitive Science -->
 
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/2646423/screenshots/5507196/computer.gif">
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/743832/screenshots/4422836/day99-100_galaxy_tx.gif">
 
 <br />
 
