@@ -31,15 +31,15 @@
 <img align="left" alt="Keras" width="26px" src="https://s3.amazonaws.com/keras.io/img/keras-logo-2018-large-1200.png" />
 
 
-<img align="right" alt="Coding" width="300" src="https://64.media.tumblr.com/d4d71de9193c952ac5282e82a022cc81/tumblr_n118kxgjYu1s1rd1xo1_500.gif">
+<img align="center right" alt="Coding" width="300" src="https://64.media.tumblr.com/d4d71de9193c952ac5282e82a022cc81/tumblr_n118kxgjYu1s1rd1xo1_500.gif">
 
 <br />
 
 [![Yasmeen's github stats](https://github-readme-stats.vercel.app/api?username=YasPHP&theme=graywhite&show_icons=true&hide=issues,contribs&include_all_commits=true&line_height=21&bg_color=0,EC6C6C,FFD479,FFFC79,73FA79)](https://github.com/YasPHP/github-readme-stats)
 
-<img align="left" alt="dots" width="200" src="https://cdn2.scratch.mit.edu/get_image/user/21004752_60x60.png?v=1485302549.33">
+<img align="center left" alt="dots" width="200" src="https://cdn2.scratch.mit.edu/get_image/user/21004752_60x60.png?v=1485302549.33">
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YasPHP&layout=compact&show_icons=true&include_all_commits=true&bg_color=0,73FA79,73FDFF,7A81FF&theme=graywhite)](https://github.com/YasPHP/github-readme-stats)]
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YasPHP&layout=compact&show_icons=true&include_all_commits=true&bg_color=0,73FA79,73FDFF,7A81FF&theme=graywhite)](https://github.com/YasPHP/github-readme-stats)
 
 
 
