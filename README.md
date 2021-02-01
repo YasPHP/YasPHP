@@ -26,11 +26,11 @@
 <br />
 
 ### My Podcast
-[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="The Student Spotlight Podcast" width="350" />](https://open.spotify.com/show/48DzS7x134TsQuE7uvz9Wi) <img align="right" alt="Coding" width="300" src="https://64.media.tumblr.com/d4d71de9193c952ac5282e82a022cc81/tumblr_n118kxgjYu1s1rd1xo1_500.gif">
+[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="The Student Spotlight Podcast" width="350" />](https://open.spotify.com/show/48DzS7x134TsQuE7uvz9Wi)
 
 
+[![Yasmeen's github stats](https://github-readme-stats.vercel.app/api?username=YasPHP&theme=graywhite&show_icons=true&hide=issues,contribs&include_all_commits=true&line_height=21&bg_color=0,EC6C6C,FFD479,FFFC79,73FA79)](https://github.com/YasPHP/github-readme-stats)<img align="right" alt="Coding" width="300" src="https://64.media.tumblr.com/d4d71de9193c952ac5282e82a022cc81/tumblr_n118kxgjYu1s1rd1xo1_500.gif">
 
-[![Yasmeen's github stats](https://github-readme-stats.vercel.app/api?username=YasPHP&theme=graywhite&show_icons=true&hide=issues,contribs&include_all_commits=true&line_height=21&bg_color=0,EC6C6C,FFD479,FFFC79,73FA79)](https://github.com/YasPHP/github-readme-stats)
 
 
 <img align="left" alt="dots" width="200" src="https://cdn2.scratch.mit.edu/get_image/user/21004752_60x60.png?v=1485302549.33">
