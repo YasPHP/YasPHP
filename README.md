@@ -9,6 +9,9 @@
 - 🎯 In search of neuroscience and computer vision research opportunities
 <!-- - 🧪 Research Assistant at the Fukuda Lab for Cognitive Science -->
 
+### My Podcast
+
+[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="The Student Spotlight Podcast" width="350" />](https://open.spotify.com/show/48DzS7x134TsQuE7uvz9Wi)
 <img align="right" alt="Coding" width="250" src="https://64.media.tumblr.com/d4d71de9193c952ac5282e82a022cc81/tumblr_n118kxgjYu1s1rd1xo1_500.gif">
 
 
@@ -18,9 +21,6 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YasPHP&layout=compact&show_icons=true&include_all_commits=true&bg_color=0,73FA79,73FDFF,7A81FF&theme=graywhite)](https://github.com/YasPHP/github-readme-stats)
 
-### My Podcast
-
-[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="The Student Spotlight Podcast" width="350" />](https://open.spotify.com/show/48DzS7x134TsQuE7uvz9Wi)
 
 
 
