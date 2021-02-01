@@ -47,6 +47,9 @@
 <a href="https://open.spotify.com/show/48DzS7x134TsQuE7uvz9Wi"><img align = "left" width="22px" src="https://www.iconsdb.com/icons/preview/black/spotify-xxl.png"/>
 
 <br />
+
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=YasPHP.visitor-badge)
-  
-  <img src="https://media.giphy.com/media/jpVnC65DmYeyRL4LHS/giphy.gif" width="20%">
+
+<br />
+
+<img src="https://media.giphy.com/media/jpVnC65DmYeyRL4LHS/giphy.gif" width="20%">
