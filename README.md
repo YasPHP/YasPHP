@@ -46,7 +46,7 @@
 <br />
 <br />
 
-<img align="left" alt="dots" width="200" src="https://3.bp.blogspot.com/-sq1Cae7kNH8/W4KDjlE7GsI/AAAAAAAZ948/-lWmDZL3KH8rpZOZk71zUAWudBTVWfDlACLcBGAs/s1600/TW1633001.png">
+<img align="left" alt="dots" width="100" src="https://3.bp.blogspot.com/-sq1Cae7kNH8/W4KDjlE7GsI/AAAAAAAZ948/-lWmDZL3KH8rpZOZk71zUAWudBTVWfDlACLcBGAs/s1600/TW1633001.png">
 
 [![Yasmeen's github stats](https://github-readme-stats.vercel.app/api?username=YasPHP&theme=graywhite&show_icons=true&hide=issues,contribs&include_all_commits=true&line_height=21&bg_color=0,EC6C6C,FFD479,FFFC79,73FA79)](https://github.com/YasPHP/github-readme-stats)
 
