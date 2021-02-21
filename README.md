@@ -6,9 +6,10 @@
 - 📚  I'm a sophomore studying Psychology, Computer Science and Mathematics at the University of Toronto 
 - 🧠  Currently learning about computational neuroscience and artificial intelligence
 - 👩‍💻  Lead as the Director Of Event Operations (Computational Sciences Division) in the Women in Science and Computing Club
-- 🎯 In search of neuroscience and computer vision research opportunities
-<!-- - 🧪 Research Assistant at the Fukuda Lab for Cognitive Science -->
+- 🎯 In search of computational neuroscience and computer vision research opportunities
+- 🧪 Research Assistant at the Fukuda Lab for Cognitive Science and Memory
 
+<!-- -->
 <br />
 
 ### Languages and Tools
