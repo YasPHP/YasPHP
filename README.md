@@ -4,9 +4,9 @@
   <img src="https://github.com/vimalverma558/vimalverma558/blob/v2/img/hello.gif" width="20%">
 
 - 📚  I'm a sophomore studying Psychology, Computer Science and Mathematics at the University of Toronto 
-- 🧠  Currently learning about computational neuroscience and artificial intelligence
+- 🧠  Currently learning and building computational neuroscience machine learning tools
 - 👩‍💻  Lead as the Director Of Event Operations (Computational Sciences Division) in the Women in Science and Computing Club
-- 🎯 In search of computational neuroscience and computer vision research opportunities
+- 🎯 In search of neuroscience and computer vision research opportunities
 - 🧪 Research Assistant at the Fukuda Lab for Cognitive Science and Memory
 
 <!-- -->
