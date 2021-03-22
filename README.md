@@ -7,7 +7,7 @@
 - 🧠  Currently learning and building cognitive machine learning tools
 - 👩‍💻  Lead as the Director of Event Operations (Computational Sciences Division) in the Women in Science and Computing Club
 - 🎯 In search of neuroscience and computer vision research opportunities
-- 🧪 Research Assistant at the Fukuda Lab for Cognitive Science and Memory
+- 🧪 Cognitive Science and Memory Research Assistant
 
 <!-- -->
 <br />
@@ -42,7 +42,6 @@
 
 ### Connect with me:
 <a href="https://yasmeenbrain.com/"> <img align="left" alt="yasmeenbrain.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />
-<a href="https://ca.linkedin.com/in/yasmeen-hmaidan-0ba3a8148"><img align="left" alt="Yasmeen | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
   
 <a href="https://open.spotify.com/show/48DzS7x134TsQuE7uvz9Wi"><img align = "left" width="22px" src="https://www.iconsdb.com/icons/preview/black/spotify-xxl.png"/>
 
