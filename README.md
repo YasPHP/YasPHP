@@ -5,7 +5,7 @@
 
 <!-- - 📚  I'm a sophomore studying Psychology, Computer Science and Mathematics at the University of Toronto -->
 - 🧠  Currently building cognitive machine learning tools
-- 👩‍💻  Lead as the Director of Event Operations (Computational Sciences Division) in the Women in Science and Computing Club
+- 👩‍💻  Lead as the Director of Event Operations (Computational Sciences Division) in the Women in Science and Computing Team
 - 🎯 In search of neuroscience and computer vision research opportunities
 - 🧪 Cognitive Science and Memory Research Assistant
 
