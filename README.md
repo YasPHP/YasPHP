@@ -37,7 +37,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YasPHP&layout=compact&show_icons=true&include_all_commits=true&bg_color=0,73FA79,73FDFF,7A81FF&theme=graywhite)](https://github.com/YasPHP/github-readme-stats)
 
-<img align="right" alt="blossoms" width="100" src="https://64.media.tumblr.com/2dcd9901cc9d125d4f4e161d9b7356f5/tumblr_n1mb7aXNNc1snc5kxo1_500.gif"> 
+<img align="center" alt="blossoms" width="300" src="https://64.media.tumblr.com/2dcd9901cc9d125d4f4e161d9b7356f5/tumblr_n1mb7aXNNc1snc5kxo1_500.gif"> 
 
 ### Connect with me:
 <a href="https://yasmeenbrain.com/"> <img align="left" alt="yasmeenbrain.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />
