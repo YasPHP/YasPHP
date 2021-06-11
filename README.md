@@ -44,7 +44,7 @@
   
 <a href="https://open.spotify.com/show/48DzS7x134TsQuE7uvz9Wi"><img align = "left" width="22px" src="https://www.iconsdb.com/icons/preview/black/spotify-xxl.png"/>
 
-
+<img align="right" alt="blossoms" width="320" src="https://gifimage.net/wp-content/uploads/2017/10/cherry-blossom-transparent-gif-12.gif"> 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=YasPHP.visitor-badge)
 
 <br />
