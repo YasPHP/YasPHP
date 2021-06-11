@@ -35,8 +35,6 @@
 
 <img align="left" alt="flower" width="200" src="https://64.media.tumblr.com/d99bf2e645dbf2906213fc3242b23a6a/tumblr_nm1jo3gtmJ1snc5kxo1_500.gif">
 
-<img align="right" alt="blossoms" width="200" src="https://64.media.tumblr.com/2dcd9901cc9d125d4f4e161d9b7356f5/tumblr_n1mb7aXNNc1snc5kxo1_500.gif"> 
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YasPHP&layout=compact&show_icons=true&include_all_commits=true&bg_color=0,73FA79,73FDFF,7A81FF&theme=graywhite)](https://github.com/YasPHP/github-readme-stats)
 
 
