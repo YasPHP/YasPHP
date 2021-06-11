@@ -45,7 +45,7 @@
 <a href="https://open.spotify.com/show/48DzS7x134TsQuE7uvz9Wi"><img align = "left" width="22px" src="https://www.iconsdb.com/icons/preview/black/spotify-xxl.png"/>
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=YasPHP.visitor-badge)
 
-<img align="right" alt="blossoms" width="320" src="https://64.media.tumblr.com/2dcd9901cc9d125d4f4e161d9b7356f5/tumblr_n1mb7aXNNc1snc5kxo1_500.gif"> 
+<img align="right" alt="blossoms" width="100" src="https://64.media.tumblr.com/2dcd9901cc9d125d4f4e161d9b7356f5/tumblr_n1mb7aXNNc1snc5kxo1_500.gif"> 
 <br />
 
 <img src="https://media.giphy.com/media/jpVnC65DmYeyRL4LHS/giphy.gif" width="20%">
