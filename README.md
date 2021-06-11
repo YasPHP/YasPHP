@@ -32,7 +32,7 @@
 
 
 [![Yasmeen's github stats](https://github-readme-stats.vercel.app/api?username=YasPHP&theme=graywhite&show_icons=true&hide=issues,contribs&include_all_commits=true&line_height=21&bg_color=0,EC6C6C,FFD479,FFFC79,73FA79)](https://github.com/YasPHP/github-readme-stats)
-
+<img align="right" alt="blossoms" width="100" src="https://64.media.tumblr.com/2dcd9901cc9d125d4f4e161d9b7356f5/tumblr_n1mb7aXNNc1snc5kxo1_500.gif"> 
 
 <img align="left" alt="flower" width="200" src="https://64.media.tumblr.com/d99bf2e645dbf2906213fc3242b23a6a/tumblr_nm1jo3gtmJ1snc5kxo1_500.gif">
 
@@ -45,7 +45,6 @@
 <a href="https://open.spotify.com/show/48DzS7x134TsQuE7uvz9Wi"><img align = "left" width="22px" src="https://www.iconsdb.com/icons/preview/black/spotify-xxl.png"/>
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=YasPHP.visitor-badge)
 
-<img align="right" alt="blossoms" width="100" src="https://64.media.tumblr.com/2dcd9901cc9d125d4f4e161d9b7356f5/tumblr_n1mb7aXNNc1snc5kxo1_500.gif"> 
 <br />
 
 <img src="https://media.giphy.com/media/jpVnC65DmYeyRL4LHS/giphy.gif" width="20%">
