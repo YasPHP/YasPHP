@@ -4,7 +4,7 @@
   <img src="https://github.com/vimalverma558/vimalverma558/blob/v2/img/hello.gif" width="20%">
 
 <!-- - 📚  I'm a sophomore studying Psychology, Computer Science and Mathematics at the University of Toronto -->
-- 🎯 Transitioning from building neurosurgical machine learning tools to neurotechnology
+- 🎯 Transitioning from building neurosurgical ML tools to neurotechnology
 - 🧠 Neuroscience Computer Vision Researcher
 - 🧪 Cognitive Science and Memory Research Assistant
 
