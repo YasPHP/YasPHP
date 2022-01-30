@@ -5,7 +5,7 @@
 
 <!-- - 📚  I'm a sophomore studying Psychology, Computer Science and Mathematics at the University of Toronto -->
 - 🎯 Transitioning from building neurosurgical ML tools to neurotechnology
-- 🧠 Neuroscience Computer Vision Researcher
+- 🧠 EEG Researcher
 - 🧪 Cognitive Science and Memory Research Assistant
 
 <!-- -->
