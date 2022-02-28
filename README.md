@@ -4,8 +4,8 @@
   <img src="https://github.com/vimalverma558/vimalverma558/blob/v2/img/hello.gif" width="20%">
 
 <!-- - 📚  I'm a sophomore studying Psychology, Computer Science and Mathematics at the University of Toronto -->
-- 🎯 Transitioning from building neurosurgical ML tools to neurotechnology
-- 🧠 EEG Researcher
+- 🎯 Transitioning from building neuro ML tools to neurotechnology and design
+- 🧠 Neural Interface Designer and EEG Researcher
 - 🧪 Cognitive Science and Memory Research Assistant
 
 <!-- -->
