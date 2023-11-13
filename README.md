@@ -4,9 +4,9 @@
   <img src="https://github.com/vimalverma558/vimalverma558/blob/v2/img/hello.gif" width="20%">
 
 <!-- - 📚  I'm a senior studying Psychology and Computer Science at the University of Toronto -->
-- 🎯 Building tools for cognitive support with neurotechnology and design
-- 🧠 Neural Interface Designer and EEG Researcher
-- 🧪 Cognitive Science and Memory Research Assistant
+- 🎯 Building tools for cognitive support with biosensing wearables and industrial design
+- 🧠 Cognitive Neurotechnologist and New Media Artist
+- 🤖 AI x HCI Research Assistant
 
 <!-- -->
 <br />
